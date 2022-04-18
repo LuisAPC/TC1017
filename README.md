@@ -4,7 +4,7 @@ This is where all my codes for TC1017 will be.
 **TC1017** was:
 > My first programming class I took in my University
 
-## It cover the *following topics*:
+## It covers the *following topics*:
 You can check my [blog](https://luisapcblog.wordpress.com/) for more information and code explanations
 
 1. Use of comments (Improving in each task)
